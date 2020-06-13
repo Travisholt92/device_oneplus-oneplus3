@@ -470,5 +470,7 @@
     
     <!-- Smart Charging -->
     <bool name="config_supportSmartCharging">false</bool>
-   
+    
+    <!-- Enable pocket mode -->
+    <bool name="config_proxiSensorWakupCheck">true</bool>    
 </resources>
